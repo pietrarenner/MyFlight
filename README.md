@@ -1,5 +1,4 @@
 # MyFlight
 
-Exercício MyFlight
-
-Segundo Semestre, agosto de 2022.
+Exercício MyFlight - aeroportos
+Cadeira: Programação Orientada a Objeto
